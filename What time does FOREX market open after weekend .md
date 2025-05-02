@@ -97,7 +97,7 @@ Begin with small positions and scale up as you gain experience.
 
 Here's a comparison of top brokers you can trust:
 
-| Broker         | Regulation     | Features                         | Affiliate Link |
+| Broker         | Regulation     | Features                         | Link |
 |----------------|----------------|----------------------------------|----------------|
 | **Exness**     | FCA, CySEC     | Low spreads, fast execution      | [Join Exness](https://one.exnesstrack.org/a/english23) |
 | **JustMarkets**| FSA, CySEC     | Suitable for beginners           | [Join JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) |
