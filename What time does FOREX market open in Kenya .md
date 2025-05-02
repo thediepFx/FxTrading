@@ -79,7 +79,7 @@ The forex market operates from **Monday 00:00 GMT to Friday 22:00 GMT**, but tim
 
 ## 🏦 Top Forex Brokers for Kenyan Traders
 
-| Broker         | Regulation | Highlights                         | Affiliate Link |
+| Broker         | Regulation | Highlights                         | Link |
 |----------------|------------|------------------------------------|----------------|
 | Exness         | FCA, CySEC | Tight spreads, M-Pesa supported    | [Join Exness](https://one.exnesstrack.org/a/english23) |
 | JustMarkets    | FSA        | Beginner-friendly, low spreads     | [Join JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) |
