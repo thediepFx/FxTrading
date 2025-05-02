@@ -100,7 +100,7 @@ Avoid:
 
 ## 📊 Top Forex Brokers for Nigerians
 
-| Broker       | Regulation | Highlights                          | Affiliate Link |
+| Broker       | Regulation | Highlights                          | Link |
 |--------------|------------|-------------------------------------|----------------|
 | Exness       | FCA, CySEC | Tight spreads, fast withdrawals     | [Join Exness](https://one.exnesstrack.org/a/english23) |
 | JustMarkets  | FSA        | Easy onboarding, MT4/MT5 supported  | [Join JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) |
